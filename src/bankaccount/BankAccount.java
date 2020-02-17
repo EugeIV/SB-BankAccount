@@ -2,7 +2,7 @@ package bankaccount;
 
 public class BankAccount
 {
-    public int money;
+    private int money;
 
     public int howMuchMoney()
     {
